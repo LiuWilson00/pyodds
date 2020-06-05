@@ -1,0 +1,1694 @@
+{
+  "Arsenal": {
+    "Cantonese": "阿仙奴",
+    "Chinese": "阿森納"
+  },
+  "Birmingham City": {
+    "Cantonese": "伯明翰",
+    "Chinese": "伯明翰"
+  },
+  "Bolton": {
+    "Cantonese": "保頓",
+    "Chinese": "博爾頓"
+  },
+  "Chelsea": {
+    "Cantonese": "車路士",
+    "Chinese": "切爾西"
+  },
+  "Everton": {
+    "Cantonese": "愛華頓",
+    "Chinese": "愛華頓"
+  },
+  "Liverpool": {
+    "Cantonese": "利物浦",
+    "Chinese": "利物浦"
+  },
+  "Manchester United": {
+    "Cantonese": "曼聯",
+    "Chinese": "曼聯"
+  },
+  "Newcastle United": {
+    "Cantonese": "紐卡素",
+    "Chinese": "紐卡斯爾聯"
+  },
+  "Portsmouth": {
+    "Cantonese": "朴茨茅夫",
+    "Chinese": "朴茨茅斯"
+  },
+  "Man United": {
+    "Cantonese": "曼聯",
+    "Chinese": "曼聯"
+  },
+  "West Brom": {
+    "Cantonese": "西布朗",
+    "Chinese": "西布朗"
+  },
+  "Wigan":{
+    "Cantonese": "韋根",
+    "Chinese": "韋根"
+  },
+  "QPR":{
+    "Cantonese": "昆士柏流浪",
+    "Chinese": "昆士柏流浪"
+  },
+  "Swansea":{
+    "Cantonese": "史雲斯",
+    "Chinese": "史雲斯"
+  },
+  "West Ham":{
+    "Cantonese": "西漢姆",
+    "Chinese": "西漢姆"
+  },
+  "Newcastle":{
+    "Cantonese": "紐卡斯爾",
+    "Chinese": "紐卡斯爾"
+  },
+  "Man City":{
+    "Cantonese": "曼城",
+    "Chinese": "曼城"
+  },
+  "Stoke":{
+    "Cantonese": "斯托克",
+    "Chinese": "斯托克"
+  },
+  "Tottenham Hotspur": {
+    "Cantonese": "托特納姆熱刺",
+    "Chinese": "托特納姆熱刺"
+  },
+  "Tottenham":{
+    "Cantonese": "托特納姆熱刺",
+    "Chinese": "托特納姆熱刺"
+  },
+  "AC Milan": {
+    "Cantonese": "AC米蘭",
+    "Chinese": "AC米蘭"
+  },
+  "Bologna": {
+    "Cantonese": "博洛尼亞",
+    "Chinese": "博洛尼亞"
+  },
+  "Cagliari": {
+    "Cantonese": "卡利亞里",
+    "Chinese": "卡利亞里"
+  },
+  "Fiorentina": {
+    "Cantonese": "費倫天拿",
+    "Chinese": "佛羅倫薩"
+  },
+  "Juventus": {
+    "Cantonese": "祖云達斯",
+    "Chinese": "尤文圖斯"
+  },
+  "Lecce": {
+    "Cantonese": "萊切",
+    "Chinese": "萊切"
+  },
+  "Messina": {
+    "Cantonese": "麥斯納",
+    "Chinese": "梅西納"
+  },
+  "Parma": {
+    "Cantonese": "帕爾馬",
+    "Chinese": "帕爾馬"
+  },
+  "Roma": {
+    "Cantonese": "羅馬",
+    "Chinese": "羅馬"
+  },
+  "Siera": {
+    "Cantonese": "錫耶納",
+    "Chinese": "錫耶納"
+  },
+  "Albacete": {
+    "Cantonese": "阿爾巴塞特",
+    "Chinese": "阿爾巴塞特"
+  },
+  "Atletico Madrid": {
+    "Cantonese": "馬德里體育會",
+    "Chinese": "馬德里競技"
+  },
+  "Deportivo La Coruna": {
+    "Cantonese": "拉科魯尼亞",
+    "Chinese": "拉科魯尼亞"
+  },
+  "Espanyol": {
+    "Cantonese": "愛斯賓奴",
+    "Chinese": "西班牙人"
+  },
+  "Malaga": {
+    "Cantonese": "馬拉加",
+    "Chinese": "馬拉加"
+  },
+  "Numancia": {
+    "Cantonese": "紐文西亞",
+    "Chinese": "努曼西亞"
+  },
+  "Racing Santander": {
+    "Cantonese": "桑坦德",
+    "Chinese": "桑坦德競技"
+  },
+  "Real Madrid": {
+    "Cantonese": "皇家馬德里",
+    "Chinese": "皇家馬德里"
+  },
+  "Sevilla": {
+    "Cantonese": "西維爾",
+    "Chinese": "塞維利亞"
+  },
+  "Villarreal": {
+    "Cantonese": "維拉里爾",
+    "Chinese": "比利亞雷亞爾"
+  },
+  "Arminia Bielefeld": {
+    "Cantonese": "比勒費爾德",
+    "Chinese": "比勒菲爾德"
+  },
+  "Bochum": {
+    "Cantonese": "波琴",
+    "Chinese": "波鴻"
+  },
+  "Freiburg": {
+    "Cantonese": "費雷堡",
+    "Chinese": "弗賴堡"
+  },
+  "Hannover 96": {
+    "Cantonese": "漢諾威",
+    "Chinese": "漢諾威96"
+  },
+  "Hertha BSC": {
+    "Cantonese": "哈化柏林",
+    "Chinese": "柏林赫塔"
+  },
+  "Leverkusen": {
+    "Cantonese": "利華古遜",
+    "Chinese": "勒沃庫森"
+  },
+  "Monchengladbach": {
+    "Cantonese": "慕遜加柏",
+    "Chinese": "門興格拉德巴赫"
+  },
+  "Schalke 04": {
+    "Cantonese": "史浩克零四",
+    "Chinese": "沙爾克04"
+  },
+  "Werder Bremen": {
+    "Cantonese": "云達不萊梅",
+    "Chinese": "云達不來梅"
+  },
+  "Ajaccio": {
+    "Cantonese": "阿些斯奧",
+    "Chinese": "阿雅克肖"
+  },
+  "Bastia": {
+    "Cantonese": "巴斯蒂亞",
+    "Chinese": "巴斯蒂亞"
+  },
+  "Caen": {
+    "Cantonese": "卡昂",
+    "Chinese": "卡昂(岡)"
+  },
+  "Lille": {
+    "Cantonese": "利爾",
+    "Chinese": "里爾"
+  },
+  "Marseille": {
+    "Cantonese": "馬賽",
+    "Chinese": "馬賽"
+  },
+  "Monaco": {
+    "Cantonese": "摩納哥",
+    "Chinese": "摩納哥"
+  },
+  "Nice": {
+    "Cantonese": "奈斯",
+    "Chinese": "尼斯"
+  },
+  "Rennes": {
+    "Cantonese": "雷恩",
+    "Chinese": "雷恩"
+  },
+  "Sochaux": {
+    "Cantonese": "索察",
+    "Chinese": "索肖"
+  },
+  "Toulouse": {
+    "Cantonese": "圖魯茲",
+    "Chinese": "圖盧茲"
+  },
+  "Aberdeen": {
+    "Cantonese": "鴨巴甸",
+    "Chinese": "阿伯丁"
+  },
+  "Dundee United": {
+    "Cantonese": "登地聯",
+    "Chinese": "鄧迪聯"
+  },
+  "Glasgow Celtic": {
+    "Cantonese": "些路迪",
+    "Chinese": "凱爾特人"
+  },
+  "Hearts": {
+    "Cantonese": "赫斯",
+    "Chinese": "哈茨"
+  },
+  "Kilmarnock": {
+    "Cantonese": "基馬諾克",
+    "Chinese": "基爾馬諾克"
+  },
+  "Motherwell": {
+    "Cantonese": "馬瑟韋爾",
+    "Chinese": "馬瑟威爾"
+  },
+  "Brighton & Hove A.": {
+    "Cantonese": "白禮頓",
+    "Chinese": "布萊頓"
+  },
+  "Cardiff C.": {
+    "Cantonese": "卡迪夫城",
+    "Chinese": "卡迪夫城"
+  },
+  "Crewe Alexandra": {
+    "Cantonese": "克魯",
+    "Chinese": "克魯"
+  },
+  "Gillingham": {
+    "Cantonese": "基寧咸",
+    "Chinese": "吉林漢姆"
+  },
+  "Leeds U.": {
+    "Cantonese": "列斯聯",
+    "Chinese": "利茲"
+  },
+  "Millwall": {
+    "Cantonese": "米禾爾",
+    "Chinese": "米爾沃爾"
+  },
+  "Plymouth Argyle": {
+    "Cantonese": "普利茅夫",
+    "Chinese": "普利茅斯"
+  },
+  "Queens Park R.": {
+    "Cantonese": "昆士柏流浪",
+    "Chinese": "女王公園巡遊者"
+  },
+  "Rotherham U.": {
+    "Cantonese": "洛達咸",
+    "Chinese": "羅瑟漢姆聯"
+  },
+  "Stoke C.": {
+    "Cantonese": "史篤城",
+    "Chinese": "斯托克城"
+  },
+  "Watford": {
+    "Cantonese": "屈福特",
+    "Chinese": "沃特福德"
+  },
+  "Wigan Athletic": {
+    "Cantonese": "韋根",
+    "Chinese": "韋根"
+  },
+  "Barnsley": {
+    "Cantonese": "班士利",
+    "Chinese": "巴恩斯利"
+  },
+  "Bournemouth": {
+    "Cantonese": "般尼茅夫",
+    "Chinese": "伯恩茅斯"
+  },
+  "Brentford": {
+    "Cantonese": "賓福特",
+    "Chinese": "布倫特福德"
+  },
+  "Chesterfield": {
+    "Cantonese": "車士打菲特",
+    "Chinese": "切斯特菲爾德"
+  },
+  "Doncaster R.": {
+    "Cantonese": "唐卡士打",
+    "Chinese": "唐卡斯特"
+  },
+  "Huddersfield T.": {
+    "Cantonese": "哈德斯菲爾德",
+    "Chinese": "赫德斯菲爾德"
+  },
+  "Luton T.": {
+    "Cantonese": "盧頓",
+    "Chinese": "盧頓"
+  },
+  "Peterborough U.": {
+    "Cantonese": "彼德堡",
+    "Chinese": "彼得堡聯隊"
+  },
+  "Sheffield W.": {
+    "Cantonese": "錫週三",
+    "Chinese": "謝週三"
+  },
+  "Swindon T.": {
+    "Cantonese": "史雲頓",
+    "Chinese": "斯溫頓"
+  },
+  "Tranmere R.": {
+    "Cantonese": "燦美爾",
+    "Chinese": "特蘭米爾"
+  },
+  "Wimbledon": {
+    "Cantonese": "溫布頓",
+    "Chinese": "溫布爾頓"
+  },
+  "Ahlen": {
+    "Cantonese": "艾倫",
+    "Chinese": "阿倫"
+  },
+  "Burghausen": {
+    "Cantonese": "貝豪森",
+    "Chinese": "博格豪森"
+  },
+  "Dynamo Dresden": {
+    "Cantonese": "特雷斯登",
+    "Chinese": "德累斯頓"
+  },
+  "Eintracht Frankfurt": {
+    "Cantonese": "法蘭克福",
+    "Chinese": "法蘭克福"
+  },
+  "Energie Cottbus": {
+    "Cantonese": "科特布斯",
+    "Chinese": "科特布斯"
+  },
+  "Greuther Furth": {
+    "Cantonese": "格雷特霍夫",
+    "Chinese": "菲爾特"
+  },
+  "Koln": {
+    "Cantonese": "科隆",
+    "Chinese": "科隆"
+  },
+  "RW Erfurt": {
+    "Cantonese": "洛特維博菲",
+    "Chinese": "埃爾福特"
+  },
+  "Saarbrucken": {
+    "Cantonese": "賽瑞貝肯",
+    "Chinese": "薩爾布呂肯"
+  },
+  "Albinoleffe": {
+    "Cantonese": "艾賓奴列夫",
+    "Chinese": "阿爾比諾萊費"
+  },
+  "Ascoli": {
+    "Cantonese": "阿斯科利",
+    "Chinese": "阿斯科利"
+  },
+  "Catania": {
+    "Cantonese": "卡坦尼亞",
+    "Chinese": "卡塔尼亞"
+  },
+  "Cesena": {
+    "Cantonese": "切辛納",
+    "Chinese": "切塞納"
+  },
+  "Empoli": {
+    "Cantonese": "恩波里",
+    "Chinese": "恩波利"
+  },
+  "Modena": {
+    "Cantonese": "摩德納",
+    "Chinese": "摩德納"
+  },
+  "Pescara": {
+    "Cantonese": "比斯卡拉",
+    "Chinese": "佩斯卡拉"
+  },
+  "Salernitana": {
+    "Cantonese": "沙蘭力坦拿",
+    "Chinese": "薩勒尼塔納"
+  },
+  "Torino": {
+    "Cantonese": "拖連奴",
+    "Chinese": "都靈"
+  },
+  "Triestina": {
+    "Cantonese": "泰利斯天拿",
+    "Chinese": "特里埃斯蒂納"
+  },
+  "Verona": {
+    "Cantonese": "維羅納",
+    "Chinese": "維羅納"
+  },
+  "Almeria": {
+    "Cantonese": "艾美利亞",
+    "Chinese": "阿爾梅里亞"
+  },
+  "Celta de Vigo": {
+    "Cantonese": "切爾達",
+    "Chinese": "維哥塞爾塔"
+  },
+  "Cordoba": {
+    "Cantonese": "科爾多瓦",
+    "Chinese": "科爾多瓦"
+  },
+  "Elche": {
+    "Cantonese": "艾爾切",
+    "Chinese": "埃爾切"
+  },
+  "Lleida": {
+    "Cantonese": "利爾達",
+    "Chinese": "萊里達"
+  },
+  "Nastic": {
+    "Cantonese": "塔拉哥納",
+    "Chinese": "托雷拉貝加體育"
+  },
+  "Pontevedra": {
+    "Cantonese": "邦特韋德拉",
+    "Chinese": "龐特貝德拉"
+  },
+  "Real Murcia": {
+    "Cantonese": "梅西亞",
+    "Chinese": "穆爾西亞"
+  },
+  "Salamanca": {
+    "Cantonese": "沙拉曼卡",
+    "Chinese": "薩拉曼卡"
+  },
+  "Tenerife": {
+    "Cantonese": "特內里費",
+    "Chinese": "特內里費"
+  },
+  "Valladolid": {
+    "Cantonese": "華拉度列",
+    "Chinese": "瓦拉杜利德"
+  },
+  "Academica": {
+    "Cantonese": "科英布拉大學",
+    "Chinese": "科因布拉大學"
+  },
+  "Belenenses": {
+    "Cantonese": "比蘭倫斯",
+    "Chinese": "貝蘭嫩塞"
+  },
+  "Boavista": {
+    "Cantonese": "博維斯塔",
+    "Chinese": "博阿維斯塔"
+  },
+  "Estoril": {
+    "Cantonese": "伊斯托里爾",
+    "Chinese": "埃斯托里爾"
+  },
+  "Guimaraes": {
+    "Cantonese": "甘馬雷斯",
+    "Chinese": "吉馬良斯"
+  },
+  "Moreirense": {
+    "Cantonese": "摩里倫斯",
+    "Chinese": "莫里倫斯"
+  },
+  "Penafiel": {
+    "Cantonese": "彭拿費爾",
+    "Chinese": "佩納費爾"
+  },
+  "Rio Ave": {
+    "Cantonese": "裡奧阿維",
+    "Chinese": "里奧阿維"
+  },
+  "Uniao Leiria": {
+    "Cantonese": "利亞拿",
+    "Chinese": "萊里亞"
+  },
+  "Ajax": {
+    "Cantonese": "阿積士",
+    "Chinese": "阿賈克斯"
+  },
+  "Breda": {
+    "Cantonese": "比達",
+    "Chinese": "布雷達"
+  },
+  "FC Den Bosch": {
+    "Cantonese": "丹博斯治",
+    "Chinese": "鄧伯什"
+  },
+  "Feyenoord": {
+    "Cantonese": "飛燕諾",
+    "Chinese": "費耶諾德"
+  },
+  "Heerenveen": {
+    "Cantonese": "海倫維恩",
+    "Chinese": "海倫芬"
+  },
+  "PSV Eindhoven": {
+    "Cantonese": "PSV燕豪芬",
+    "Chinese": "PSV埃因霍溫"
+  },
+  "Roosendaal": {
+    "Cantonese": "羅辛達",
+    "Chinese": "羅森達"
+  },
+  "Utrecht": {
+    "Cantonese": "烏德勒支",
+    "Chinese": "烏德勒支"
+  },
+  "Waalwijk RKC": {
+    "Cantonese": "RKC華域克",
+    "Chinese": "RKC"
+  },
+  "AA Gent": {
+    "Cantonese": "真特",
+    "Chinese": "根特"
+  },
+  "Beveren": {
+    "Cantonese": "比華倫",
+    "Chinese": "貝華倫"
+  },
+  "FC Brussels": {
+    "Cantonese": "布魯塞爾",
+    "Chinese": "布魯塞爾"
+  },
+  "Charleroi": {
+    "Cantonese": "查內爾",
+    "Chinese": "查內爾"
+  },
+  "Germinal Beerschot": {
+    "Cantonese": "比斯查",
+    "Chinese": "比斯查"
+  },
+  "Lierse": {
+    "Cantonese": "利亞斯",
+    "Chinese": "利亞斯"
+  },
+  "Mons-Bergen": {
+    "Cantonese": "蒙斯",
+    "Chinese": "蒙斯"
+  },
+  "Oostende": {
+    "Cantonese": "奧斯坦德",
+    "Chinese": "奧斯坦德"
+  },
+  "Standard Liege": {
+    "Cantonese": "標準列治",
+    "Chinese": "標準列日"
+  },
+  "Fredrikstad": {
+    "Cantonese": "費德列斯達",
+    "Chinese": "腓德烈斯達"
+  },
+  "Brann Bergen": {
+    "Cantonese": "白蘭恩",
+    "Chinese": "布萊尼"
+  },
+  "Lillestrom": {
+    "Cantonese": "利尼史特朗",
+    "Chinese": "利勒斯特羅姆"
+  },
+  "Molde": {
+    "Cantonese": "莫迪",
+    "Chinese": "莫爾德"
+  },
+  "Rosenborg": {
+    "Cantonese": "洛辛堡",
+    "Chinese": "羅森博格"
+  },
+  "Stabaek": {
+    "Cantonese": "史達比克",
+    "Chinese": "斯達布克"
+  },
+  "Valerenga": {
+    "Cantonese": "華拿倫加",
+    "Chinese": "瓦勒倫加"
+  },
+  "AIK Stockholm": {
+    "Cantonese": "AIK蘇納",
+    "Chinese": "AIK斯托克漢姆"
+  },
+  "Elfsborg": {
+    "Cantonese": "艾夫斯堡",
+    "Chinese": "埃爾夫斯堡"
+  },
+  "Hammarby": {
+    "Cantonese": "哈馬比",
+    "Chinese": "哈馬爾比"
+  },
+  "Helsingborg": {
+    "Cantonese": "希爾星堡",
+    "Chinese": "赫爾辛堡"
+  },
+  "Landskrona": {
+    "Cantonese": "蘭斯干拿",
+    "Chinese": "蘭斯科羅那"
+  },
+  "Orebro": {
+    "Cantonese": "奧雷布洛",
+    "Chinese": "奧雷布洛"
+  },
+  "Trelleborg": {
+    "Cantonese": "特利堡",
+    "Chinese": "特利堡"
+  },
+  "Allianss": {
+    "Cantonese": "阿里安斯",
+    "Chinese": "阿里安斯"
+  },
+  "Hameenlinna": {
+    "Cantonese": "咸美恩連拿",
+    "Chinese": "漢米林納"
+  },
+  "Inter Turku": {
+    "Cantonese": "英特杜古",
+    "Chinese": "國際圖爾庫"
+  },
+  "Jazz Pori": {
+    "Cantonese": "謝斯波利",
+    "Chinese": "波里爵士"
+  },
+  "Lahti": {
+    "Cantonese": "拉迪",
+    "Chinese": "拉哈迪"
+  },
+  "Rovaniemi": {
+    "Cantonese": "路雲尼米",
+    "Chinese": "洛瓦尼米"
+  },
+  "TP-47": {
+    "Cantonese": "TP-47",
+    "Chinese": "TP-47"
+  },
+  "AaB Aalborg": {
+    "Cantonese": "阿爾堡",
+    "Chinese": "奧爾堡"
+  },
+  "FC Copenhagen": {
+    "Cantonese": "哥本哈根",
+    "Chinese": "哥本哈根"
+  },
+  "Herfolge BK": {
+    "Cantonese": "靴爾科治",
+    "Chinese": "赫爾弗格"
+  },
+  "Esbjerg": {
+    "Cantonese": "艾斯堡",
+    "Chinese": "艾斯堡"
+  },
+  "AGF Aarhus": {
+    "Cantonese": "阿曉斯",
+    "Chinese": "奧胡斯"
+  },
+  "OB Odense": {
+    "Cantonese": "奧丹斯",
+    "Chinese": "奧丹斯"
+  },
+  "Servette": {
+    "Cantonese": "塞維特",
+    "Chinese": "塞爾維特"
+  },
+  "Young Boys Bern": {
+    "Cantonese": "年青人",
+    "Chinese": "伯爾尼青年"
+  },
+  "Aarau": {
+    "Cantonese": "阿勞",
+    "Chinese": "阿勞"
+  },
+  "Thun": {
+    "Cantonese": "杜安",
+    "Chinese": "圖恩"
+  },
+  "Neuchatel Xamax": {
+    "Cantonese": "納沙泰爾",
+    "Chinese": "納沙泰爾"
+  },
+  "SV Salzburg": {
+    "Cantonese": "薩爾斯堡",
+    "Chinese": "薩爾茨堡"
+  },
+  "SV Pasching": {
+    "Cantonese": "蘇柏芬特",
+    "Chinese": "帕興"
+  },
+  "Austria Vienna": {
+    "Cantonese": "奧地利維也納",
+    "Chinese": "維也納奧地利人"
+  },
+  "Graz AK": {
+    "Cantonese": "格拉茨AK",
+    "Chinese": "格拉茨AK"
+  },
+  "Rapid Vienna": {
+    "Cantonese": "維也納迅速",
+    "Chinese": "維也納迅速"
+  },
+  "Chicago Fire": {
+    "Cantonese": "芝加哥火焰",
+    "Chinese": "芝加哥火焰"
+  },
+  "Columbus Metro Stars": {
+    "Cantonese": "哥倫布機員",
+    "Chinese": "哥倫布水手"
+  },
+  "D.C. Unite": {
+    "Cantonese": "華盛頓聯隊",
+    "Chinese": "華盛頓聯隊"
+  },
+  "Los Angeles Galaxy": {
+    "Cantonese": "洛杉磯銀河",
+    "Chinese": "洛杉磯銀河"
+  },
+  "New England Revolution": {
+    "Cantonese": "新英倫革命",
+    "Chinese": "新英格蘭革命"
+  },
+  "Albirex Niigata": {
+    "Cantonese": "新潟天鵝",
+    "Chinese": "新潟天鵝"
+  },
+  "Gamba Osaka": {
+    "Cantonese": "大阪飛腳",
+    "Chinese": "大阪飛腳"
+  },
+  "Kashiwa Reysol": {
+    "Cantonese": "柏雷素爾",
+    "Chinese": "柏雷素爾"
+  },
+  "Otia Trinita": {
+    "Cantonese": "大分三神",
+    "Chinese": "大分三神"
+  },
+  "Yokohama F.Marinos": {
+    "Cantonese": "橫濱水手",
+    "Chinese": "橫濱水手"
+  },
+  "Vissel Kobe": {
+    "Cantonese": "神戶勝利船",
+    "Chinese": "神戶勝利船"
+  },
+  "Tokyo Verdy": {
+    "Cantonese": "東京日視",
+    "Chinese": "東京日視"
+  },
+  "Urawa Red Diamond": {
+    "Cantonese": "浦和紅鑽",
+    "Chinese": "浦和紅鑽"
+  },
+  "Almagro": {
+    "Cantonese": "阿爾馬格羅",
+    "Chinese": "阿馬格羅"
+  },
+  "Arsenal de Sarandi": {
+    "Cantonese": "薩倫迪",
+    "Chinese": "Chinese"
+  },
+  "Boca Juniors": {
+    "Cantonese": "小保加",
+    "Chinese": "博卡青年"
+  },
+  "Club Olimpo": {
+    "Cantonese": "奧林波",
+    "Chinese": "奧里姆普"
+  },
+  "Gimnasia y Esgrima La Plata": {
+    "Cantonese": "拉普拉塔體操",
+    "Chinese": "格納斯亞"
+  },
+  "Instituto": {
+    "Cantonese": "聯合隊",
+    "Chinese": "因斯蒂圖托"
+  },
+  "Lanus": {
+    "Cantonese": "拉努斯",
+    "Chinese": "拉努斯"
+  },
+  "Quilmes": {
+    "Cantonese": "奎梅斯",
+    "Chinese": "奎梅斯"
+  },
+  "Rosario Central": {
+    "Cantonese": "羅薩里奧中央",
+    "Chinese": "羅薩里奧中央"
+  },
+  "San Lorenzo": {
+    "Cantonese": "聖羅倫佐",
+    "Chinese": "桑洛倫佐"
+  },
+  "fenerbahce": {
+    "Cantonese": "費倫巴治",
+    "Chinese": "費內巴切"
+  },
+  "galatasaray": {
+    "Cantonese": "加拉塔沙雷",
+    "Chinese": "加拉塔薩雷"
+  },
+  "Besiktas JK": {
+    "Cantonese": "比錫達斯",
+    "Chinese": "貝西克塔斯"
+  },
+  "Malatyaspor": {
+    "Cantonese": "馬拉蒂亞士邦",
+    "Chinese": "馬拉蒂亞"
+  },
+  "Genclerbirligi": {
+    "Cantonese": "真格拿拜列治",
+    "Chinese": "根克勒比利吉"
+  },
+  "Samsunspor": {
+    "Cantonese": "薩姆松珀",
+    "Chinese": "薩姆桑"
+  },
+  "Diyarbakirspor": {
+    "Cantonese": "迪亞比克士邦",
+    "Chinese": "迪亞巴基爾"
+  },
+  "Sakaryaspor Adapazari": {
+    "Cantonese": "沙卡亞士邦",
+    "Chinese": "薩卡亞"
+  },
+  "Kayserispor": {
+    "Cantonese": "基錫里士邦",
+    "Chinese": "凱瑟裡"
+  },
+  "Aston Villa": {
+    "Cantonese": "阿士東維拉",
+    "Chinese": "阿斯頓維拉"
+  },
+  "Blackburn Rovers": {
+    "Cantonese": "布力般流浪",
+    "Chinese": "布萊克本"
+  },
+  "Charlton Athletic": {
+    "Cantonese": "查爾頓",
+    "Chinese": "查爾頓"
+  },
+  "Crystal Palace": {
+    "Cantonese": "水晶宮",
+    "Chinese": "水晶宮"
+  },
+  "Fulham": {
+    "Cantonese": "富咸",
+    "Chinese": "富勒姆"
+  },
+  "Manchester City": {
+    "Cantonese": "曼城",
+    "Chinese": "曼城"
+  },
+  "Middlesbrough": {
+    "Cantonese": "米杜士堡",
+    "Chinese": "米德爾斯堡"
+  },
+  "Norwich City": {
+    "Cantonese": "諾維奇",
+    "Chinese": "諾維奇"
+  },
+  "Norwich": {
+    "Cantonese": "諾維奇",
+    "Chinese": "諾維奇"
+  },
+  "Southampton": {
+    "Cantonese": "修咸頓",
+    "Chinese": "修咸頓"
+  },
+  "West Bromwich Albion": {
+    "Cantonese": "西布朗",
+    "Chinese": "西布朗"
+  },
+  "Atalanta": {
+    "Cantonese": "阿特蘭大",
+    "Chinese": "亞特蘭大"
+  },
+  "Brescia": {
+    "Cantonese": "布雷西亞",
+    "Chinese": "布雷西亞"
+  },
+  "Chievo": {
+    "Cantonese": "切禾",
+    "Chinese": "切沃"
+  },
+  "Inter Milan": {
+    "Cantonese": "國際米蘭",
+    "Chinese": "國際米蘭"
+  },
+  "Lazio": {
+    "Cantonese": "拉素",
+    "Chinese": "拉齊奧"
+  },
+  "Livorno": {
+    "Cantonese": "利禾奴",
+    "Chinese": "利沃諾"
+  },
+  "Palermo": {
+    "Cantonese": "巴勒莫",
+    "Chinese": "帕勒莫"
+  },
+  "Reggina": {
+    "Cantonese": "里賈納",
+    "Chinese": "雷吉納"
+  },
+  "Sampdoria": {
+    "Cantonese": "森多利亞",
+    "Chinese": "桑普多利亞"
+  },
+  "Udinese": {
+    "Cantonese": "烏甸尼斯",
+    "Chinese": "烏迪內斯"
+  },
+  "Athletic Bilbao": {
+    "Cantonese": "畢爾包",
+    "Chinese": "畢爾巴鄂競技"
+  },
+  "Barcelona": {
+    "Cantonese": "巴塞隆拿",
+    "Chinese": "巴塞羅那"
+  },
+  "Getafe": {
+    "Cantonese": "加泰",
+    "Chinese": "加泰(赫塔菲)"
+  },
+  "Levante": {
+    "Cantonese": "利雲特",
+    "Chinese": "勒萬特"
+  },
+  "Mallorca": {
+    "Cantonese": "馬略卡",
+    "Chinese": "馬洛卡"
+  },
+  "Osasuna": {
+    "Cantonese": "奧沙辛拿",
+    "Chinese": "奧薩蘇納"
+  },
+  "Real Betis": {
+    "Cantonese": "貝迪斯",
+    "Chinese": "皇家貝蒂斯"
+  },
+  "Real Sociedad": {
+    "Cantonese": "皇家蘇斯達",
+    "Chinese": "皇家社會"
+  },
+  "Valencia": {
+    "Cantonese": "巴倫西亞",
+    "Chinese": "瓦倫西亞"
+  },
+  "Zaragoza": {
+    "Cantonese": "薩拉戈薩",
+    "Chinese": "薩拉格薩"
+  },
+  "Bayern Munchen": {
+    "Cantonese": "拜仁慕尼黑",
+    "Chinese": "拜仁慕尼黑"
+  },
+  "Borussia Dortmund": {
+    "Cantonese": "多蒙特",
+    "Chinese": "多特蒙德"
+  },
+  "Hamburger SV": {
+    "Cantonese": "漢堡",
+    "Chinese": "漢堡"
+  },
+  "Hansa Rostock": {
+    "Cantonese": "羅斯托克",
+    "Chinese": "羅斯托克"
+  },
+  "Kaiserslautern": {
+    "Cantonese": "凱沙羅頓",
+    "Chinese": "凱澤斯勞滕"
+  },
+  "Mainz": {
+    "Cantonese": "緬恩斯",
+    "Chinese": "美因茨05"
+  },
+  "Nurnberg": {
+    "Cantonese": "紐倫堡",
+    "Chinese": "紐倫堡"
+  },
+  "Stuttgart": {
+    "Cantonese": "史特加",
+    "Chinese": "斯圖加特"
+  },
+  "Wolfsburg": {
+    "Cantonese": "沃爾夫斯堡",
+    "Chinese": "沃爾夫斯堡"
+  },
+  "Auxerre": {
+    "Cantonese": "歐塞爾",
+    "Chinese": "歐塞爾"
+  },
+  "Bordeaux": {
+    "Cantonese": "波爾多",
+    "Chinese": "波爾多"
+  },
+  "Lens": {
+    "Cantonese": "朗斯",
+    "Chinese": "朗斯"
+  },
+  "Lyonnais": {
+    "Cantonese": "里昂",
+    "Chinese": "里昂"
+  },
+  "Metz": {
+    "Cantonese": "梅斯",
+    "Chinese": "梅斯"
+  },
+  "Nantes": {
+    "Cantonese": "南特",
+    "Chinese": "南特"
+  },
+  "Paris S.G.": {
+    "Cantonese": "巴黎圣日門",
+    "Chinese": "巴黎圣日耳曼"
+  },
+  "Saint-Etienne": {
+    "Cantonese": "聖伊天",
+    "Chinese": "聖艾蒂安"
+  },
+  "Strasbourg": {
+    "Cantonese": "史特拉斯堡",
+    "Chinese": "斯特拉斯堡"
+  },
+  "Istres": {
+    "Cantonese": "伊斯特爾",
+    "Chinese": "伊斯特"
+  },
+  "Dundee": {
+    "Cantonese": "登地",
+    "Chinese": "鄧迪"
+  },
+  "Dunfermline": {
+    "Cantonese": "鄧弗姆林",
+    "Chinese": "鄧弗姆林"
+  },
+  "Glasgow Rangers": {
+    "Cantonese": "格拉斯哥流浪",
+    "Chinese": "格拉斯哥流浪者"
+  },
+  "Hibernian": {
+    "Cantonese": "喜百年",
+    "Chinese": "希伯尼安"
+  },
+  "Livingston": {
+    "Cantonese": "利雲斯頓",
+    "Chinese": "利文斯頓"
+  },
+  "Inverness": {
+    "Cantonese": "伊凡尼斯",
+    "Chinese": "恩華利斯"
+  },
+  "Burnley": {
+    "Cantonese": "般尼",
+    "Chinese": "伯恩利"
+  },
+  "Coventry C.": {
+    "Cantonese": "高雲地利",
+    "Chinese": "考文垂"
+  },
+  "Derby County": {
+    "Cantonese": "打比郡",
+    "Chinese": "德比郡"
+  },
+  "Ipswich T.": {
+    "Cantonese": "葉士域治",
+    "Chinese": "伊普斯維奇"
+  },
+  "Leicester C.": {
+    "Cantonese": "李斯特城",
+    "Chinese": "萊切斯特"
+  },
+  "Nottingham F.": {
+    "Cantonese": "諾定咸森林",
+    "Chinese": "諾丁漢森林"
+  },
+  "Preston North End": {
+    "Cantonese": "普雷斯頓",
+    "Chinese": "普雷斯頓"
+  },
+  "Reading": {
+    "Cantonese": "雷丁",
+    "Chinese": "雷丁"
+  },
+  "Sheffield U": {
+    "Cantonese": "錫菲聯",
+    "Chinese": "謝菲爾德聯"
+  },
+  "Sunderland": {
+    "Cantonese": "新特蘭",
+    "Chinese": "桑德蘭"
+  },
+  "West Ham U.": {
+    "Cantonese": "韋斯咸",
+    "Chinese": "西漢姆"
+  },
+  "Wolverhampton W.": {
+    "Cantonese": "狼隊",
+    "Chinese": "狼隊"
+  },
+  "Blackpool": {
+    "Cantonese": "黑池",
+    "Chinese": "布萊克浦"
+  },
+  "Bradford C.": {
+    "Cantonese": "巴拉福特",
+    "Chinese": "布拉德福德"
+  },
+  "Bristol C.": {
+    "Cantonese": "布里斯託港",
+    "Chinese": "布里斯托爾"
+  },
+  "Colchester U.": {
+    "Cantonese": "高車士打",
+    "Chinese": "柯徹斯特"
+  },
+  "Hartlepool U.": {
+    "Cantonese": "哈特爾浦",
+    "Chinese": "哈特利普"
+  },
+  "Hull C.": {
+    "Cantonese": "候城",
+    "Chinese": "赫爾城"
+  },
+  "Oldham Athletic": {
+    "Cantonese": "奧咸",
+    "Chinese": "奧爾德姆"
+  },
+  "Port Vale": {
+    "Cantonese": "維爾港",
+    "Chinese": "維爾港"
+  },
+  "Stockport County": {
+    "Cantonese": "史託港",
+    "Chinese": "斯托克波特"
+  },
+  "Torquay U.": {
+    "Cantonese": "託基聯",
+    "Chinese": "托奇聯隊"
+  },
+  "Walsall": {
+    "Cantonese": "華素爾",
+    "Chinese": "沃爾索爾"
+  },
+  "Wrexham": {
+    "Cantonese": "域斯咸",
+    "Chinese": "雷克瑟姆"
+  },
+  "Alemannia Aachen": {
+    "Cantonese": "亞琛",
+    "Chinese": "亞琛"
+  },
+  "Duisburg": {
+    "Cantonese": "杜伊斯堡",
+    "Chinese": "杜伊斯堡"
+  },
+  "Munich 1860": {
+    "Cantonese": "慕尼黑1860",
+    "Chinese": "慕尼黑1860"
+  },
+  "Eintracht Trier": {
+    "Cantonese": "特里爾",
+    "Chinese": "特里爾"
+  },
+  "Erzgebirge Aue": {
+    "Cantonese": "艾斯基比治",
+    "Chinese": "艾爾格博格"
+  },
+  "Karlsruhe": {
+    "Cantonese": "卡斯魯厄",
+    "Chinese": "卡爾斯魯厄"
+  },
+  "Oberhausen": {
+    "Cantonese": "奧柏侯遜",
+    "Chinese": "奧伯豪森"
+  },
+  "RW Essen": {
+    "Cantonese": "埃森",
+    "Chinese": "埃森"
+  },
+  "Unterhaching": {
+    "Cantonese": "安達赫治",
+    "Chinese": "翁特哈興"
+  },
+  "Arezzo": {
+    "Cantonese": "阿雷素",
+    "Chinese": "阿雷佐"
+  },
+  "Bari": {
+    "Cantonese": "巴里",
+    "Chinese": "巴里"
+  },
+  "Catanzaro": {
+    "Cantonese": "卡坦薩羅",
+    "Chinese": "卡塔薩羅"
+  },
+  "Crotone": {
+    "Cantonese": "克羅托內",
+    "Chinese": "克羅託內"
+  },
+  "Genoa": {
+    "Cantonese": "熱拿亞",
+    "Chinese": "熱那亞"
+  },
+  "Perugia": {
+    "Cantonese": "佩魯賈",
+    "Chinese": "佩魯賈"
+  },
+  "Piacenza": {
+    "Cantonese": "皮亞琴察",
+    "Chinese": "皮亞琴察"
+  },
+  "Ternana": {
+    "Cantonese": "特拉納",
+    "Chinese": "特拉納"
+  },
+  "Treviso": {
+    "Cantonese": "泰列維素",
+    "Chinese": "特雷維素"
+  },
+  "Venezia": {
+    "Cantonese": "威尼斯",
+    "Chinese": "威尼斯"
+  },
+  "Vicenza": {
+    "Cantonese": "維琴察",
+    "Chinese": "維琴察"
+  },
+  "Cadiz": {
+    "Cantonese": "卡迪斯",
+    "Chinese": "卡迪斯"
+  },
+  "Ciudad de Murcia": {
+    "Cantonese": "梅西亞城",
+    "Chinese": "穆爾西亞城"
+  },
+  "Deportivo Alaves": {
+    "Cantonese": "艾拉維斯",
+    "Chinese": "阿拉維斯"
+  },
+  "Eibar": {
+    "Cantonese": "伊巴",
+    "Chinese": "埃爾巴"
+  },
+  "Malaga B": {
+    "Cantonese": "馬拉加Ｂ隊",
+    "Chinese": "馬拉加二隊"
+  },
+  "Poli.Ejido": {
+    "Cantonese": "艾積多",
+    "Chinese": "埃西多"
+  },
+  "Racing Ferrol": {
+    "Cantonese": "費路爾",
+    "Chinese": "費羅爾競技"
+  },
+  "Recreativo de Huelva": {
+    "Cantonese": "維爾瓦",
+    "Chinese": "烏爾瓦"
+  },
+  "Sporting Gijon": {
+    "Cantonese": "希杭",
+    "Chinese": "希洪競技"
+  },
+  "Terrassa": {
+    "Cantonese": "泰拿沙",
+    "Chinese": "特拉薩"
+  },
+  "Xerez": {
+    "Cantonese": "薩雷斯",
+    "Chinese": "赫雷斯"
+  },
+  "Beira Mar": {
+    "Cantonese": "比拉馬",
+    "Chinese": "貝拉馬"
+  },
+  "Benfica": {
+    "Cantonese": "賓菲加",
+    "Chinese": "本菲卡"
+  },
+  "Braga": {
+    "Cantonese": "布拉加",
+    "Chinese": "布拉加"
+  },
+  "Gil Vicente": {
+    "Cantonese": "基維辛迪",
+    "Chinese": "基維森特"
+  },
+  "Maritimo": {
+    "Cantonese": "馬里迪莫",
+    "Chinese": "馬爾蒂默"
+  },
+  "Nacional": {
+    "Cantonese": "國民隊",
+    "Chinese": "民族隊"
+  },
+  "Porto": {
+    "Cantonese": "波圖",
+    "Chinese": "波爾圖"
+  },
+  "Sporting Lisbon": {
+    "Cantonese": "士砵亭",
+    "Chinese": "里斯本競技"
+  },
+  "Vitoria Setubal": {
+    "Cantonese": "塞圖巴爾",
+    "Chinese": "塞圖巴爾"
+  },
+  "Alkmaar": {
+    "Cantonese": "艾克馬爾",
+    "Chinese": "阿爾克馬爾"
+  },
+  "De Graafschap": {
+    "Cantonese": "迪加史卓普",
+    "Chinese": "格拉夫夏普"
+  },
+  "Den Haag": {
+    "Cantonese": "海牙",
+    "Chinese": "ADO海牙"
+  },
+  "Groningen": {
+    "Cantonese": "高寧根",
+    "Chinese": "格羅寧根"
+  },
+  "NEC Nijmegen": {
+    "Cantonese": "NEC尼美根",
+    "Chinese": "NEC尼美根"
+  },
+  "Roda": {
+    "Cantonese": "洛達",
+    "Chinese": "羅達JC"
+  },
+  "Twente": {
+    "Cantonese": "川迪",
+    "Chinese": "特文特"
+  },
+  "Vitesse": {
+    "Cantonese": "維迪斯",
+    "Chinese": "維特斯"
+  },
+  "Willem II": {
+    "Cantonese": "威廉二世",
+    "Chinese": "威廉二世"
+  },
+  "Anderlecht": {
+    "Cantonese": "安德列治",
+    "Chinese": "安德萊赫特"
+  },
+  "Club Brugge": {
+    "Cantonese": "布魯日",
+    "Chinese": "布魯日"
+  },
+  "Cercle Brugge": {
+    "Cantonese": "色格拉布魯日",
+    "Chinese": "色格拉布魯日"
+  },
+  "Racing Genk": {
+    "Cantonese": "亨克",
+    "Chinese": "根克"
+  },
+  "La Louviere": {
+    "Cantonese": "拉路維爾",
+    "Chinese": "拉路維爾"
+  },
+  "Lokeren": {
+    "Cantonese": "洛格倫",
+    "Chinese": "洛克倫"
+  },
+  "Mouscron": {
+    "Cantonese": "苗斯干",
+    "Chinese": "穆斯克隆"
+  },
+  "Sint Truiden": {
+    "Cantonese": "聖圖爾登",
+    "Chinese": "聖圖爾頓"
+  },
+  "Westerlo": {
+    "Cantonese": "韋斯達路",
+    "Chinese": "維斯特羅"
+  },
+  "Bodo Glimt": {
+    "Cantonese": "波杜基林特",
+    "Chinese": "博多格林特"
+  },
+  "Ham-Kam": {
+    "Cantonese": "咸卡姆",
+    "Chinese": "哈姆卡姆"
+  },
+  "Lyn Oslo": {
+    "Cantonese": "利恩",
+    "Chinese": "奧斯陸"
+  },
+  "Odd Grenland": {
+    "Cantonese": "奧特格寧蘭",
+    "Chinese": "奧多格倫蘭"
+  },
+  "Sogndal": {
+    "Cantonese": "桑恩達",
+    "Chinese": "索格恩達爾"
+  },
+  "Tromso": {
+    "Cantonese": "特羅素",
+    "Chinese": "特隆索"
+  },
+  "Viking": {
+    "Cantonese": "維京",
+    "Chinese": "維京"
+  },
+  "Djurgarden": {
+    "Cantonese": "佐加頓斯",
+    "Chinese": "尤爾加登"
+  },
+  "Kalmar FF": {
+    "Cantonese": "卡馬亞",
+    "Chinese": "卡爾馬"
+  },
+  "Halmstads": {
+    "Cantonese": "咸史泰斯",
+    "Chinese": "哈爾姆斯達斯"
+  },
+  "Gothenburg": {
+    "Cantonese": "哥登堡",
+    "Chinese": "哥德堡"
+  },
+  "Malmo": {
+    "Cantonese": "馬模",
+    "Chinese": "馬爾默"
+  },
+  "Orgryte": {
+    "Cantonese": "奧基迪",
+    "Chinese": "奧格列特"
+  },
+  "Sundsvall": {
+    "Cantonese": "辛斯華蘭",
+    "Chinese": "桑斯瓦爾"
+  },
+  "Haka": {
+    "Cantonese": "夏卡",
+    "Chinese": "哈卡"
+  },
+  "HJK Helsinki": {
+    "Cantonese": "赫爾辛基",
+    "Chinese": "哈美林納"
+  },
+  "Jaro": {
+    "Cantonese": "查路",
+    "Chinese": "杰羅"
+  },
+  "Kooteepee": {
+    "Cantonese": "古迪比",
+    "Chinese": "古迪比"
+  },
+  "MyPa": {
+    "Cantonese": "邁柏",
+    "Chinese": "米帕"
+  },
+  "Tampere United": {
+    "Cantonese": "譚柏利",
+    "Chinese": "坦佩爾聯隊"
+  },
+  "TPS Turku": {
+    "Cantonese": "TPS杜古",
+    "Chinese": "TPS圖爾庫"
+  },
+  "Silkeborg": {
+    "Cantonese": "施克堡",
+    "Chinese": "斯克堡"
+  },
+  "Midtjylland": {
+    "Cantonese": "米迪蘭特",
+    "Chinese": "米迪蘭德"
+  },
+  "Viborg": {
+    "Cantonese": "域堡",
+    "Chinese": "維堡"
+  },
+  "FC Nordsjaelland": {
+    "Cantonese": "洛斯查蘭特",
+    "Chinese": "北西蘭"
+  },
+  "Brondby": {
+    "Cantonese": "邦比",
+    "Chinese": "布隆德比"
+  },
+  "Randers": {
+    "Cantonese": "蘭達斯",
+    "Chinese": "蘭達斯"
+  },
+  "St.Gallen": {
+    "Cantonese": "聖加侖",
+    "Chinese": "聖加侖"
+  },
+  "Zurich": {
+    "Cantonese": "蘇黎世",
+    "Chinese": "蘇黎世"
+  },
+  "Basel": {
+    "Cantonese": "巴素利",
+    "Chinese": "巴塞爾"
+  },
+  "Grasshoppers": {
+    "Cantonese": "草蜢",
+    "Chinese": "草蜢"
+  },
+  "Schaffhausen FC": {
+    "Cantonese": "沙夫豪森",
+    "Chinese": "史查福豪森"
+  },
+  "Sturm Graz": {
+    "Cantonese": "格拉茨",
+    "Chinese": "格拉茨颶風"
+  },
+  "Admira Wacker": {
+    "Cantonese": "艾特米拿",
+    "Chinese": "阿德米拉"
+  },
+  "Bregenz": {
+    "Cantonese": "布雷根茨",
+    "Chinese": "布雷根茨"
+  },
+  "Wacker Tirol": {
+    "Cantonese": "華卡迪路",
+    "Chinese": "瓦克蒂洛"
+  },
+  "Mattersburg": {
+    "Cantonese": "馬特斯堡",
+    "Chinese": "馬特斯堡"
+  },
+  "Colorado Rapids": {
+    "Cantonese": "科羅拉多急流",
+    "Chinese": "科羅拉多快速"
+  },
+  "Dallas Burn": {
+    "Cantonese": "達拉斯燃燒",
+    "Chinese": "達拉斯燃燒"
+  },
+  "Kansas City Wizards": {
+    "Cantonese": "肯薩斯巫師",
+    "Chinese": "堪薩斯巫師"
+  },
+  "Metro Stars Crew": {
+    "Cantonese": "紐約大都 會",
+    "Chinese": "紐約地鐵明星"
+  },
+  "San Jose Earthquakes": {
+    "Cantonese": "聖荷西地震",
+    "Chinese": "聖何塞地震"
+  },
+  "Cerezo Osaka": {
+    "Cantonese": "大阪櫻花",
+    "Chinese": "大阪櫻花"
+  },
+  "Kashima Antlers": {
+    "Cantonese": "鹿島鹿角",
+    "Chinese": "鹿島鹿角"
+  },
+  "Nagoya Grampus Eight": {
+    "Cantonese": "名古屋八鯨",
+    "Chinese": "名古屋八鯨"
+  },
+  "Shimizu S-Pulse": {
+    "Cantonese": "清水心跳",
+    "Chinese": "清水脈衝"
+  },
+  "Jubilo Iwata": {
+    "Cantonese": "磐田山葉",
+    "Chinese": "磐田山葉"
+  },
+  "Sanfrecce Hiroshima": {
+    "Cantonese": "廣島三箭",
+    "Chinese": "廣島三箭"
+  },
+  "FC Tokyo": {
+    "Cantonese": "FC東京",
+    "Chinese": "FC東京"
+  },
+  "JEF United Ichihara": {
+    "Cantonese": "古河市原",
+    "Chinese": "古河市原"
+  },
+  "Argentinos Juniors": {
+    "Cantonese": "阿根廷青年隊",
+    "Chinese": "阿根廷青年人"
+  },
+  "Banfield": {
+    "Cantonese": "班菲爾德",
+    "Chinese": "巴恩費德"
+  },
+  "Colon de Santa Fe": {
+    "Cantonese": "科隆隊",
+    "Chinese": "科隆"
+  },
+  "Estudiantes La Plata": {
+    "Cantonese": "拉普拉塔大學生",
+    "Chinese": "埃斯圖蒂特斯"
+  },
+  "Huracan": {
+    "Cantonese": "烏拉坎",
+    "Chinese": "胡拉肯"
+  },
+  "Independiente Avellaneda": {
+    "Cantonese": "獨立隊",
+    "Chinese": "獨立"
+  },
+  "Newell's Old Boys": {
+    "Cantonese": "紐維爾舊生",
+    "Chinese": "紐維爾男孩"
+  },
+  "Racing de Avellaneda": {
+    "Cantonese": "競技",
+    "Chinese": "競技"
+  },
+  "River Plate": {
+    "Cantonese": "河床",
+    "Chinese": "河床"
+  },
+  "Velez Sarsfield": {
+    "Cantonese": "薩斯菲爾德",
+    "Chinese": "薩斯菲爾德"
+  },
+  "trabzonspor": {
+    "Cantonese": "特拉布宗斯普爾",
+    "Chinese": "特拉布宗"
+  },
+  "denizlispor": {
+    "Cantonese": "丹尼斯尼士邦",
+    "Chinese": "德尼茲利"
+  },
+  "Rizespor": {
+    "Cantonese": "里澤斯堡",
+    "Chinese": "里澤士邦"
+  },
+  "Gaziantepspor": {
+    "Cantonese": "加辛塔士邦",
+    "Chinese": "加濟安泰"
+  },
+  "Konyaspor": {
+    "Cantonese": "幹亞士邦",
+    "Chinese": "康亞"
+  },
+  "Ankaraspor": {
+    "Cantonese": "BB 安卡拉士邦",
+    "Chinese": "安卡拉"
+  },
+  "Ankaragucu": {
+    "Cantonese": "安卡華高古",
+    "Chinese": "安卡拉古庫"
+  },
+  "Istanbulspor": {
+    "Cantonese": "伊斯坦堡士邦",
+    "Chinese": "伊斯坦布爾"
+  },
+  "Akcaaba Sebatspor": {
+    "Cantonese": "錫巴特士邦",
+    "Chinese": "塞巴特"
+  }
+}
