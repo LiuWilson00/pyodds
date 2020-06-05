@@ -47,15 +47,17 @@ def getOddsProbabilityInfo(homeOdds, awayOdds):
     mergeDict = marginOriginal(homeOdds, awayOdds)
     sumInverseOdds = 0
     for key in mergeDict.keys():
-        sumInverseOdds = sumInverseOdds + 1/mergeDict[key]
-        probability[key] = 1/mergeDict[key]
+        if(mergeDict[key] != 0):
+            sumInverseOdds = sumInverseOdds + 1/mergeDict[key]
+            probability[key] = 1/mergeDict[key]
 
     for key in mergeDict.keys():
-        _probability[key] = 1 - 1/mergeDict[key]/sumInverseOdds
-        # user distribution model
-        distribution[key] = 1/mergeDict[key]/sumInverseOdds
-        _odds[key] = 1/((1 - 1/mergeDict[key]/sumInverseOdds) +
-                        (1/mergeDict[key]/sumInverseOdds)*(1-userSetRTP))
+        if(mergeDict[key] != 0):
+            _probability[key] = 1 - 1/mergeDict[key]/sumInverseOdds
+            # user distribution model
+            distribution[key] = 1/mergeDict[key]/sumInverseOdds
+            _odds[key] = 1/((1 - 1/mergeDict[key]/sumInverseOdds) +
+                            (1/mergeDict[key]/sumInverseOdds)*(1-userSetRTP))
     RTP = 1/sumInverseOdds
     info = oddsInformation(
         RTP, distribution, _probability, probability, mergeDict, _odds)
@@ -84,6 +86,9 @@ def computeIncome(info, total, result):
 init()
 # print(len(oddsData))
 basicTotal = 1000000
+totalIncome = 0
+totalCost = 0
+totalProfit = 0
 # SI = computeIncome(oddsInfo, 1000000,
 #                    oddsData[0]['FTAG']+':'+oddsData[0]['FTHG'])
 # print(oddsInfo._odds)
@@ -99,3 +104,14 @@ for odds in oddsData:
     print('income:'+str(SI.income)+'  '+'cost:' +
           str(SI.cost)+'  '+'profit:' + str(SI.profit))
     incomeList.append(SI)
+
+for income in incomeList:
+    totalIncome = totalIncome+income.income
+    totalCost = totalIncome+income.cost
+    totalProfit = totalIncome+income.profit
+
+
+print('===========================')
+print('all income:' + str(totalIncome))
+print('all cost:' + str(totalCost))
+print('all profit:' + str(totalProfit))
